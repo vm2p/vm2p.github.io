@@ -10,4 +10,3 @@ location: "Porto, Portugal"
 ---
 
 Functional Programming course, offered by the Department of Computer Science at Universidade do Porto, teaches students the functional programming paradigm, using the Haskell language as support for the course activities.
-
