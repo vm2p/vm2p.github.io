@@ -19,23 +19,23 @@ A detailed version of my CV can be found [here](https://vm2p.github.io/files/res
 
 # Work experience
 
-## Advanced Computer Scientist, SRI International
+## Advanced Computer Scientist, SRI, Menlo Park, California
 
 Menlo Park, CA, USA - *February 2021 - Ongoing*
 
-Conducting research in the intersection of theoretical cryptography and formal methods, particularly research based on computer-aided cryptography, with focus on the development of machine-checked implementations of cryptographic software via code synthesis from mechanically verified cryptographic proofs in EasyCrypt. Also, participating in various government-funded projects, as well as participating in different proposal efforts.
+My role at SRI involves participating in various US government-funded projects, as well as participating in different proposal efforts. My research directions focus on the intersection of theoretical cryptography and formal methods, particularly research based on computer-aided cryptography, with focus on the development of machine-checked implementations of cryptographic software via code synthesis from mechanically verified cryptographic proofs in EasyCrypt.
 
 ## Researcher, HASLab – INESC TEC & DCC FC Universidade do Porto
 
 Porto, Portugal - *June 2020 - February 2021*
 
-Responsible for a collaboration project between INESC TEC and SRI International with the goal of formally verify a zero-knowledge proof protocol based on the MPC-in-the-Head (MitH) construction. This project was carried out under the Securing Information for Encrypted Verification and Evaluation (SIEVE) program funded by the Defense Advanced Research Projects Agency (DARPA).
+I was responsible for a collaboration project between INESC TEC and SRI International with the goal of formally verify a zero-knowledge proof protocol based on the MPC-in-the-Head (MitH) construction. This project was carried out under the Securing Information for Encrypted Verification and Evaluation (SIEVE) program funded by the Defense Advanced Research Projects Agency (DARPA).
 
 ## Researcher, HASLab – INESC TEC & DCC FC Universidade do Porto
 
 Porto, Portugal - *July 2016 - April 2020*
 
-Developed his Ph.D. thesis "*Integrated verification of cryptographic security proofs and implementations*", focusing on reducing the abstraction gap between cryptographic security proofs and real implementations.
+Developed my Ph.D. thesis "*Integrated verification of cryptographic security proofs and implementations*", focusing on reducing the abstraction gap between cryptographic security proofs and real implementations.
 
 ## Intern, SRI International
 
@@ -55,7 +55,7 @@ Finished the development of a security proof and a verified implementation in OC
 
 Braga, Portugal - *January 2015 - March 2016*
 
-Developed his master thesis "*A deductive verification platform for cryptographic software*". The project consisted in developing a deductive verification platform for the CAO language, using the EasyCrypt toolset as a backend for the tool.
+Developed my master thesis "*A deductive verification platform for cryptographic software*". The project consisted in developing a deductive verification platform for the CAO language, using the EasyCrypt toolset as a backend for the tool.
 
 Started the development of a security proof and a verified implementation in OCaml of a concrete instantiation of Yao’s Secure Function Evaluation protocol using EasyCrypt, in cooperation with the Cryptography team at IMDEA Software, Madrid.
 
@@ -63,7 +63,7 @@ Started the development of a security proof and a verified implementation in OCa
 
 Covilhã, Portugal - *January 2013 - July 2013*
 
-Developed his undergraduate project "*Cloud Security: Homomorphic Encryption Schemes*", funded by Portugal Telecom - Inovação, under the PRICE (Privacy and Security Issues in Cloud Environment) project.
+Developed my undergraduate project "*Cloud Security: Homomorphic Encryption Schemes*", funded by Portugal Telecom - Inovação, under the PRICE (Privacy and Security Issues in Cloud Environment) project.
 
 # Skills
 

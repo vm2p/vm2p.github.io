@@ -12,5 +12,5 @@ citation: 'José Carlos Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Hugo Pac
 
 We review the role of these compilers and provide a formal treatment of the core steps that they perform to bridge the abstraction gap between high-level ideal specifications and efficient SMC protocols. Our abstract framework bridges this secure compilation problem across two dimensions: 1) language-based source- to target-level semantic and efficiency gaps, and 2) cryptographic *ideal*- to *real*-world security gaps. We link the former to the setting of certified compilation, paving the way to leverage long-run efforts such as CompCert in future SMC compilers. Security is framed in the standard cryptographic sense. Our results are supported by a machine-checked formalisation carried out in EasyCrypt.
 
-[Download paper here](https://vm2p.github.io/files/2022-jlamp.pdf)
+[Download paper here](https://repositorio.inesctec.pt/server/api/core/bitstreams/652754e6-9cdc-469a-9fc2-7c0fe1091f84/content)
 
