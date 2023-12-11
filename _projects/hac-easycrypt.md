@@ -2,11 +2,6 @@
 title: "High-Assurance Cryptography EasyCrypt Library"
 collection: projects
 permalink: /projects/hac-easycrypt
-excerpt: ''
-date: 
-venue: ''
-paperurl: ''
-citation: ''
 ---
 **Abstract:** This repository contains work focusing on computer-aided verification and automated synthesis of high-assurance cryptographic protocols and algorithms using the EasyCrypt toolset.
 

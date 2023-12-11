@@ -2,11 +2,6 @@
 title: "ALICE: Automated-instrumentation of Legacy Insecure Cryptographic Executables"
 collection: projects
 permalink: /projects/alice
-excerpt: ''
-date: 
-venue: ''
-paperurl: ''
-citation: ''
 ---
 **Abstract:** This repository contains the source-code of the ALICE platform. 
 
