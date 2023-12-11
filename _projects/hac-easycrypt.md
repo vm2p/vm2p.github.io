@@ -12,5 +12,7 @@ The repository includes:
 - OCaml LPZK verified implementation
 
 [High-Assurance Cryptography EasyCrypt Library repository](https://github.com/SRI-CSL/high-assurance-crypto)
+
 [Link to MPC-in-the-Head paper](https://vm2p.github.io/publication/2021-11-18-paper-ccs21)
+
 [Link to LPZK paper](https://vm2p.github.io/publication/2023-11-paper-ccs23)
