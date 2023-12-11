@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software and Projects"
+    url: /projects/
+
+  - title: "Funding"
+    url: /funding/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Funding"
-    url: /funding/
-        
-  - title: "Software and Projects"
-    url: /projects/
     
   - title: "CV"
     url: /cv/
