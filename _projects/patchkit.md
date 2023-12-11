@@ -3,7 +3,7 @@ title: "Pathkit"
 collection: projects
 permalink: /projects/patchkit
 excerpt: ''
-date: ''
+date: 
 venue: ''
 paperurl: ''
 citation: ''

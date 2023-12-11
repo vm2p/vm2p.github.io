@@ -3,7 +3,7 @@ title: "Machine-checked security proof of Yao’s SFE protocol"
 collection: projects
 permalink: /projects/yao-sfe
 excerpt: ''
-date: ''
+date: 
 venue: ''
 paperurl: ''
 citation: ''

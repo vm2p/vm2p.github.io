@@ -3,7 +3,7 @@ title: "Machine-checked proof of security for AWS Key Management Service"
 collection: projects
 permalink: /projects/aws-kms
 excerpt: ''
-date: ''
+date: 
 venue: ''
 paperurl: ''
 citation: ''

@@ -3,7 +3,7 @@ title: "High-Assurance Cryptography EasyCrypt Library"
 collection: projects
 permalink: /projects/hac-easycrypt
 excerpt: ''
-date: ''
+date: 
 venue: ''
 paperurl: ''
 citation: ''

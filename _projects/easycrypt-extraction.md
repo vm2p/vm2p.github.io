@@ -3,7 +3,7 @@ title: "EasyCrypt code extraction tool"
 collection: projects
 permalink: /projects/easycrypt-extraction
 excerpt: ''
-date: ''
+date: 
 venue: ''
 paperurl: ''
 citation: ''
