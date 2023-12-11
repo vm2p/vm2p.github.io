@@ -65,6 +65,36 @@ Covilhã, Portugal - *January 2013 - July 2013*
 
 Developed my undergraduate project "*Cloud Security: Homomorphic Encryption Schemes*", funded by Portugal Telecom - Inovação, under the PRICE (Privacy and Security Issues in Cloud Environment) project.
 
+# Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+# Software and Projects
+
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+# Funding
+
+  <ul>{% for post in site.funding %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+# Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+# Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 # Skills
 
 ## Digital skills
@@ -75,23 +105,3 @@ Developed my undergraduate project "*Cloud Security: Homomorphic Encryption Sche
 - Programming in Functional Languages, such as OCaml, Haskell, F* or F#
 - Compilers Development, using OCaml
 - Cryptography
-
-# Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-# Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-
-# Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
