@@ -19,11 +19,19 @@ A detailed version of my CV can be found [here](https://vm2p.github.io/files/res
 
 # Work experience
 
+## Managing Director, Algoritmo Sapiente
+
+Portugal - *March 2025 - Present*
+
+I founded Algoritmo Sapiente to conduct independent research in cryptography and formal methods, with a focus on machine-checked security proofs and high-assurance cryptographic software. I work with U.S.-based research institutes as both a subcontractor and a collaborator, contributing expertise in formal verification and cryptography to research projects funded by the U.S. government.
+
+Alongside my project work, I continue to help write research proposals, making the case for new projects by explaining the problems they address, the technical approach we would take, and what the research could achieve.
+
 ## Advanced Computer Scientist, SRI, Menlo Park, California
 
-Menlo Park, CA, USA - *February 2021 - Ongoing*
+Menlo Park, CA, USA - *February 2021 - April 2025*
 
-My role at SRI involves participating in various US government-funded projects, as well as participating in different proposal efforts. My research directions focus on the intersection of theoretical cryptography and formal methods, particularly research based on computer-aided cryptography, with focus on the development of machine-checked implementations of cryptographic software via code synthesis from mechanically verified cryptographic proofs in EasyCrypt.
+At SRI, I worked on US government-funded research projects and contributed to research proposals. My research combined theoretical cryptography and formal methods, including the synthesis of cryptographic software from mechanically verified proofs in EasyCrypt.
 
 ## Researcher, HASLab – INESC TEC & DCC FC Universidade do Porto
 
